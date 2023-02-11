@@ -11,7 +11,7 @@ Steps to test Retail_api
 }
 ```
 I use djangosimplejwt to authenticate user when you register as a user jwt generate a token using the hashing algorithm to authenticate the user.
-and send a post request.
+
 
 3. Now go to url http://127.0.0.1:8000/api/v1/products to add products
 
